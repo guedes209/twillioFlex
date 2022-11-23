@@ -1,0 +1,26 @@
+[
+    {
+        "minimum": null,
+        "multivalue": false,
+        "name": "billing",
+        "maximum": null
+    },
+    {
+      "minimum": null,
+      "multivalue": false,
+      "name": "support",
+      "maximum": null
+    },
+    {
+      "minimum": null,
+      "multivalue": false,
+      "name": "offline_work",
+      "maximum": null
+    },
+    {
+      "minimum": null,
+      "multivalue": false,
+      "name": "sales",
+      "maximum": null
+    }
+]
